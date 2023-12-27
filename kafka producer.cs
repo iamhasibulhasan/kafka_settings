@@ -1,4 +1,4 @@
-Kafka Producer Setting in dot net 
+//Kafka Producer Setting in dot net 
 
 #region Controller
 
@@ -47,9 +47,6 @@ public async Task<IActionResult> AddWarehouse([FromBody] WarehouseCreateVm model
 
 #endregion
 
-#region 
-
-#endregion
 
 #region KafkaTopicManager
 
